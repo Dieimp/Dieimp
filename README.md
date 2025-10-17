@@ -19,7 +19,8 @@ Minhas ferramentas de trabalho principais incluem:
 | **Python** | Conhecimento Sólido (Backend, ETL, Scripts) |
 | **C#** | Conhecimento Sólido (Backend, .NET) |
 | **SQL** | Conhecimento Sólido (Consultas complexas, Procedures, Otimização) |
-| **VB.NET** | Experiência Anterior (3 meses) |
+| **VB.NET** | Experiência Anterior (5 meses) |
+| **Typescript** | Conhecimento solido focado em criacao de apis REST/GraphQl |
 
 #### Banco de Dados e Versionamento
 | Tecnologia | Status |
@@ -34,7 +35,13 @@ Minhas ferramentas de trabalho principais incluem:
 ### 📈 Experiência Profissional
 
 * **Engenheiro de Dados:** 3+ anos de experiência utilizando **SQL** e **Python** para processamento, transformação e análise de dados.
-* **Desenvolvedor VB.NET:** 3 meses de experiência inicial em desenvolvimento de sistemas.
+* **Desenvolvedor VB.NET:** 5 meses de experiência inicial em desenvolvimento de sistemas.
+
+---
+
+### 📈 Experiência Academica
+
+* **Bacharel em sistemas de informcao**
 
 ---
 
